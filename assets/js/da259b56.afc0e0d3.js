@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkulinkcms_doc=self.webpackChunkulinkcms_doc||[]).push([[6149],{2863:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/ulinkcms-doc/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
