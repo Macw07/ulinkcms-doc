@@ -1,0 +1,43 @@
+yangshun:
+  name: Yangshun Tay
+  title: Front End Engineer @ Facebook
+  url: https://github.com/yangshun
+  image_url: https://github.com/yangshun.png
+  page: true
+  socials:
+    x: yangshunz
+    github: yangshun
+
+macw07:
+  name: Marco Wang
+  title: Webmaster - Developer and Algorithm Engineer
+  url: https://github.com/Macw07
+  image_url: https://avatars.githubusercontent.com/u/87552695?v=4
+  page: true
+  socials:
+    github: Macw07
+    x: Macw07
+
+fft:
+  name: Fengting Fei
+  title: Webmaster - Operator and Developer
+  url: https://github.com/Fewy-FFT
+  image_url: https://avatars.githubusercontent.com/u/181807991?v=4
+  page: true
+  socials:
+    github: Fewy-FFT
+    x: FFT
+
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-sebastien-lorber-articles'
+  socials:
+    x: sebastienlorber
+    linkedin: sebastienlorber
+    github: slorber
+    newsletter: https://thisweekinreact.com
