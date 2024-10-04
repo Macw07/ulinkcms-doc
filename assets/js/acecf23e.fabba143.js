@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkulinkcms_doc=self.webpackChunkulinkcms_doc||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/ulinkcms-doc/blog","blogTitle":"Blog","authorsListPath":"/ulinkcms-doc/blog/authors"}')}}]);
