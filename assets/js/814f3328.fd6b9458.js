@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkulinkcms_doc=self.webpackChunkulinkcms_doc||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"UlinkCMS First Release!","permalink":"/blog/project-release","unlisted":false,"date":"2024-10-07T00:00:00.000Z"}]}')}}]);
