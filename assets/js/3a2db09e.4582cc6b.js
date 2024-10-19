@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkulinkcms_doc=self.webpackChunkulinkcms_doc||[]).push([[8121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"Changelog","permalink":"/blog/tags/changlog","description":"UlinkCMS Website Updates Changelog","count":1}]}')}}]);
